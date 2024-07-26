@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @COLIEWO
 - 👀 I’m interested in programming as a whole
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 📚 I'm currently working with air quality data 
+- 🌱 I’m learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me via email celestine@aims.edu.gh
 
